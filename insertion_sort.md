@@ -15,6 +15,7 @@
 2.Big-O gösterimini yazınız.
 ```
 O(n^2)
+
 ```
 
 3.Time Complexity: 
